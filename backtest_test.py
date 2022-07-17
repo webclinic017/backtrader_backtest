@@ -86,3 +86,5 @@ if __name__ == '__main__':
     timeframes_toBeTest = ['30mins']
     for timeframe_ongoing in timeframes_toBeTest:
         backtest_start(timeframe_ongoing)
+
+test
